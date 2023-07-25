@@ -6,7 +6,7 @@ module:
   # uncomment line below for local development of module
   # workspace: hugo.work
   imports:
-    path: github.com/StefMa/hugo-fresh
+    path: github.com/msl101181/hugo-fresh
 
 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
@@ -38,7 +38,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Manage. Deploy. MSL
     # Hero subtitle (optional)
     subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
     # Button text
@@ -55,7 +55,7 @@ params:
     - logo: tribe
       url: https://stefma.github.io/hugo-fresh/
     - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
+      url: https://github.com/msl101181/hugo-fresh
     - logo: infinite
       url: https://hugo-fresh.vercel.app/
     - logo: gutwork
